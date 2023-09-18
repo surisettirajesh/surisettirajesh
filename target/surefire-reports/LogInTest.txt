@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: LogInTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 47.377 s <<< FAILURE! - in LogInTest
+LogInTest  Time elapsed: 47.357 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 9 out of bounds for length 1
+
